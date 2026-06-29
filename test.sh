@@ -1,0 +1,1 @@
+sed -i '2i export GNOME_SHELL_SESSION_MODE=ubuntu\nexport XDG_CURRENT_DESKTOP=ubuntu:GNOME' /etc/xrdp/startwm.sh
